@@ -1,0 +1,3 @@
+[submodule "projects/project"]
+	path = projects/project
+	url = https://github.com/adarcher/project
